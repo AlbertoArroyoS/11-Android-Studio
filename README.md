@@ -1,4 +1,4 @@
-# 11-Android-Studio
+# 11-Android-Studio + Java
 Actividades hechas con Android Studio
 
 ### Actividades realizadas en el segundo curso de Desarrollo de Aplicaciones Multiplataforma (DAM)
