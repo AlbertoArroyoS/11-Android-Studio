@@ -1,6 +1,8 @@
-# 11-Android-Studio + Java
+# 11-Android-Studio + Java.
 
 ### Actividades realizadas en el segundo curso de Desarrollo de Aplicaciones Multiplataforma (DAM)
+
+### (PROGRAMACIÓN MULTIMEDIA Y DISPOSITIVOS MÓVILES)
 
 ## **01-FelicitacionNavidad**
 
